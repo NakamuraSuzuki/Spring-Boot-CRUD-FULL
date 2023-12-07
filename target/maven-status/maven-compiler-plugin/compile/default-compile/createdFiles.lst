@@ -1,0 +1,5 @@
+com\project\test\demo\controllers\UserController.class
+com\project\test\demo\service\UserService.class
+com\project\test\demo\DemoApplication.class
+com\project\test\demo\db\entities\User.class
+com\project\test\demo\db\repositories\UserRepository.class
